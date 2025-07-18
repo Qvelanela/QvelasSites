@@ -1,0 +1,359 @@
+body {
+    background-image: url("../Gif/3492868.gif");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+*{
+    text-decoration: none;
+}
+.navbar{
+    background: none;
+    font-family: calibri;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.navdiv{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.logo a{
+    font-size: 35px;
+    font-weight: 600;
+    color: #E52B50;
+}
+li{
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 25px;
+}
+.button1 {
+    background-color: #E52B50;
+    margin-left: 10px;
+    border-radius: 30px;
+    padding: 10px;
+    width: 80px;
+    border: none;
+}
+.button1 a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.button2 {
+    background-color: #E52B50;
+    margin-left: 10px;
+    border-radius: 30px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+}
+.button2 a{
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+}
+.box1 {
+    background-image: url('../Gif/3492868.gif');
+    position: absolute;
+    width: 900px;
+    height: 2615px;
+    border: 1px solid black;
+    margin-top: 60px;
+    margin-left: 280px;
+    border-radius: 10px; 
+    border-color: #E52B50;
+  }
+.box11 {
+    border-radius: 30px;
+    width: 300px;
+    height: 190px;
+}
+.search {
+    border-radius: 20px;
+    border: none;
+    position: absolute;
+    margin-top: 15px;
+    margin-left: 680px;
+    background-color: #E52B50;
+    font-weight: bold;
+    height: 20px;
+    padding: 10px;
+}
+::placeholder {
+    color: white;
+}
+.game1 {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 150px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.game11 {
+    margin-top: 25px;
+    border-radius:9px;
+    width: 520px;
+    height: 270px;
+}
+.saxeli {
+    position: absolute;
+    color: #E52B50;
+    font-size: 20px;
+    margin-left: 10px;
+}
+.agwera0 {
+    position: absolute;
+    font-size: 16px;
+    font-weight: bold;
+    color: #E52B50;
+    margin-left: 5px;
+    margin-top: 100px;
+    text-decoration-line: underline;
+    
+
+}
+.agwera1 {
+    position: absolute;
+    color: #E52B50;
+    margin-top: 120px;
+    margin-left: 5px;
+}
+.view1 {
+    position: absolute;
+    font-weight: bold;
+    background-color: #E52B50;
+    margin-top: 50px;
+    margin-left: 5px;
+    border: none;
+    border-radius: 20px;
+    width: 80px;
+    height: 30px;
+    
+}
+.game2 {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 500px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.game22 {
+    margin-top: 25px;
+    border-radius:9px;
+    width: 520px;
+    height: 270px;
+}
+a {
+    color: white;
+}
+.game3 {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 850px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.game33 {
+    margin-top: 25px;
+    border-radius:9px;
+    width: 520px;
+    height: 270px;
+}
+.game4 {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 1200px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.game44 {
+    margin-top: 25px;
+    border-radius:9px;
+    width: 520px;
+    height: 270px;
+}
+.game5 {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 1550px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.game55 {
+    margin-top: 25px;
+    border-radius:9px;
+    width: 520px;
+    height: 270px;
+}
+.game6 {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 1900px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.game66 {
+    margin-top: 25px;
+    border-radius:9px;
+    width: 520px;
+    height: 270px;
+}
+.game7 {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 2250px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.game77 {
+    margin-top: 25px;
+    border-radius:9px;
+    width: 520px;
+    height: 270px;
+}
+.nextpage {
+    position: absolute;
+    background-color: #E52B50;
+    margin-top: 2562px;
+    margin-left: 350px;
+    border-radius: 30px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+}
+.Qveela {
+    position: absolute;
+    width: 500px;
+    height: 110px;
+    margin-top: 20px;
+    margin-left: 42px;
+    border-radius: 20px;
+}
+.aboutme {
+    color: #E52B50;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 20px;
+    text-decoration: underline;
+    font-size: 20px;
+    font-weight: bold;
+}
+.abtsite {
+    color: #E52B50;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 20px;
+
+}
+.abs {
+    color: #E52B50;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 220px;
+}
+.contact1 {
+    color: #E52B50;
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    margin-top: 10px;
+    margin-left: 390px;
+}
+.contact2 {
+    color: #E52B50;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    margin-top: 60px;
+    margin-left: 10px;
+}
+.contact3 {
+    color: #E52B50;
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: underline;
+    position: absolute;
+    margin-top: 90px;
+    margin-left: 10px;
+}
+.grandtheftautov {
+    color: #E52B50;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 20px;
+    margin-left:320px;
+}
+.grand {
+    position: absolute;
+    width: 825px;
+    height: 300px;
+    border: 1px none;
+    margin-top: 100px;
+    margin-left: 30px;
+    border-radius: 10px; 
+    border-color: none;
+}
+.iframe1 {
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 170px;
+}
+.grandtheftautov1 {
+    color: #E52B50;
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 800px;
+    margin-left:360px;
+}
+.downloadbutton {
+    background-color: #E52B50;
+    margin-left: 380px;
+    margin-top: 850px;
+    border-radius: 30px;
+    padding: 10px;
+    width: 150px;
+    border: none;
+    font-weight: bold;
+
+}
+
